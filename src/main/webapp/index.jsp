@@ -1,6 +1,6 @@
 <html>
 <body bgcolor="pink">
 <center><h2>welcome to devops lab</h2>
-<h3>Welcome acoe cseb(5A6)</h3></center>
+<h1>Welcome to ACOE CSEB(5A6)</h1></center>
 </body>
 </html>
